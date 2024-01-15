@@ -2,7 +2,7 @@
 
 /* class stylings */
 .class1 {
-	font-family: "Verdana" "DejaVu Sans" sans-serif;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
 	background-color: #eb7c9d;
 }
 
