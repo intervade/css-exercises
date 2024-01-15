@@ -2,7 +2,7 @@
 
 .avatar.proportioned {
 	width: 300px;
-	height;
+	height: auto;
 }
 
 .avatar.distorted {
