@@ -1,0 +1,20 @@
+/* 03 styling */
+
+/* styling combo */
+
+.do,
+.dont {
+	font-family: Helvetica, "Times New Roman", sans-serif;
+	font-sizel: 28px;
+}
+
+/* single class stylings */
+
+.do {
+	background-color: black;
+	color: white;
+}
+
+.dont {
+	background-color: yellow;
+}
