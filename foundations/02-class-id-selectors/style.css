@@ -1,0 +1,23 @@
+/* some style */
+
+/* class stylings */
+.class1 {
+	font-family: "Verdana" "DejaVu Sans" sans-serif;
+	background-color: #eb7c9d;
+}
+
+.class2 {
+	font-size: 24px;
+}
+
+/* id stylings */
+#id1 {
+	color: #3c51de;
+	font-size: 36px;
+}
+
+#id2 {
+	background-color: #8beb7a;
+	font-weight: bold;
+	font-size: 24px;
+}
