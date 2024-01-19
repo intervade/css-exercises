@@ -18,13 +18,14 @@ body {
 .header {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	font-weight: bold;
 	font-size: 20px;
-	padding-bottom: 6px;
+	margin-bottom: 6px;
 }
 
 .text {
-	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 .modal {
